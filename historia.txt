@@ -1,5 +1,7 @@
 Esta es una prueba de uso de git hub
 
-con archivos de texto desde windows y linux
+con archivos de texto desde windows
 
-y aprendiendo como hacerlo y hacerlo bien, para programar mejor en varios lenguajes
+y aprendiendo como hacerlo
+
+mañnaa aprendiendo mas y mas
